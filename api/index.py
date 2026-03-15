@@ -6,7 +6,6 @@ from flask import Flask, jsonify, request
 
 app = Flask(__name__)
 
-# Branding
 CREATOR = "Chirag Rathi | CRR AI DYNOXNIX"
 
 class OverChatAPI:
